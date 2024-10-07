@@ -10,4 +10,8 @@ https://github.com/Sangram-tech/Python--/blob/main/FACTORIAL.py)
 https://github.com/Sangram-tech/Python--/blob/main/trigo_math.py)
 
 •Write a program that will convert various temperatures.
-a) Centigrade to Fahrenheit
+
+a) Centigrade to Fahrenheit( https://github.com/Sangram-tech/Python--/blob/main/.py)
+
+•Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number.(
+
