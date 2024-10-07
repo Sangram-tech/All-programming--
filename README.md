@@ -1,5 +1,5 @@
 # All-programming--
-# 1) PYTHON:--
+# PYTHON:--
 
 • Write a program to demonstrate the usage of various arithmetic operators.
 
