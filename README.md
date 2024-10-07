@@ -17,7 +17,9 @@
 
 ( https://github.com/Sangram-tech/Python--/blob/main/.py)
 
-•Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number.(https://github.com/Sangram-tech/Python--/blob/main/even-odd.py)
+•Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number. 
+
+(https://github.com/Sangram-tech/Python--/blob/main/even-odd.py)
 
 • Find out the youngest among Shyam, Dugu and Ishan whose ages are entered by the user through keyboard.
 
