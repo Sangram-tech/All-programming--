@@ -41,3 +41,7 @@
 • Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number. 
 
 (
+
+• write a program to find area of a circle.
+
+(
