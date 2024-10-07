@@ -30,3 +30,14 @@
 • Write a program that demonstrate the usage of various String functions.
 
 (https://github.com/Sangram-tech/Python--/blob/main/String.py)
+
+
+
+
+
+
+# c :-
+
+• Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number. 
+
+(
