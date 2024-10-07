@@ -26,3 +26,7 @@
 • Write a program to find the factorial value of a number entered by the user.
 
 (https://github.com/Sangram-tech/Python--/blob/main/FACTORIAL.py)
+
+• Write a program that demonstrate the usage of various String functions.
+
+(
