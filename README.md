@@ -1,7 +1,9 @@
 # All-programming--
-     # CONTENT:--
 
-    i) python:-
+ # CONTENT:--
+
+
+  i) python:-
 
 • Write a program to demonstrate the usage of various arithmetic operators.
 
