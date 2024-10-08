@@ -45,3 +45,7 @@
 • write a program to find area of a circle.
 
 (https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-CRICLE-/blob/main/main.c)
+
+• write a program to find area of a square.
+
+(https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-SQURE-/blob/main/Hello.c)
