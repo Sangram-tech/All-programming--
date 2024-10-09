@@ -40,7 +40,7 @@
 
 • Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number. 
 
-(
+(https://github.com/Sangram-tech/WAP-TO-PRINT-CHECK-WHEATHER-NUMBER-EVEN-OR-)
 
 • write a program to find area of a circle.
 
