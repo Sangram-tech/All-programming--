@@ -50,9 +50,16 @@
 
 (https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-SQURE-/blob/main/Hello.c)
 
-write a program to find factorial of a number.
+• write a program to find factorial of a number.
 
 (https://github.com/Sangram-tech/-WAP-TO-FACTRIOL-OF-A-NUMBER./blob/main/hello.c)
 
-write a program to check whether the year is leap year or not.
+• write a program to check whether the year is leap year or not.
+
+(https://github.com/Sangram-tech/-WAP-TO-CHECK-LEAP-YEAR-./blob/main/main.c)
+
+• write a program to find squre of a number.
+
 (
+
+
