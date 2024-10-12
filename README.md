@@ -66,4 +66,8 @@
 
 (https://github.com/Sangram-tech/WAP-TO-SWAP-TWO-NUMBER-USING-THIRD-VARIABLE-/blob/main/ATF-MAC/main.c)
 
+• write a program to find day of a week using switch case 
+
+(https://github.com/Sangram-tech/WAP-TO-FIND-A-DAY-OF-THE-WEEK-USING-SWITCH-CASE-/blob/main/MAIN.C)
+
 
