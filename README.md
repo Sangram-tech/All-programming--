@@ -62,6 +62,8 @@
 
 (https://github.com/Sangram-tech/WAP-TO-FIND-SQURE-OF-A-NUMBER-./blob/main/MAIM.C)
 
-• 
+• write a program to swap to number using third variable as entered by user.
+
+(https://github.com/Sangram-tech/WAP-TO-SWAP-TWO-NUMBER-USING-THIRD-VARIABLE-/blob/main/ATF-MAC/main.c)
 
 
