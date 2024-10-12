@@ -70,4 +70,7 @@
 
 (https://github.com/Sangram-tech/WAP-TO-FIND-A-DAY-OF-THE-WEEK-USING-SWITCH-CASE-/blob/main/MAIN.C)
 
+sting function:-
+
+
 
