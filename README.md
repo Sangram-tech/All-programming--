@@ -49,3 +49,10 @@
 • write a program to find area of a square.
 
 (https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-SQURE-/blob/main/Hello.c)
+
+write a program to find factorial of a number.
+
+(https://github.com/Sangram-tech/-WAP-TO-FACTRIOL-OF-A-NUMBER./blob/main/hello.c)
+
+write a program to check whether the year is leap year or not.
+(
