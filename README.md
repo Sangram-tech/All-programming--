@@ -60,6 +60,8 @@
 
 • write a program to find squre of a number.
 
-(
+(https://github.com/Sangram-tech/WAP-TO-FIND-SQURE-OF-A-NUMBER-./blob/main/MAIM.C)
+
+• 
 
 
