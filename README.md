@@ -31,6 +31,9 @@
 
 (https://github.com/Sangram-tech/Python--/blob/main/String.py)
 
+• wrte a program to display the last digit of a number.
+
+(https://github.com/Sangram-tech/Python--/blob/main/Last%20digit%20of%20number%20.py)
 
 
 
