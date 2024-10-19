@@ -35,8 +35,13 @@
 
 (https://github.com/Sangram-tech/Python--/blob/main/Last%20digit%20of%20number%20.py)
 
+write a program to display if a year is leapyear or not.
+(
+write a program to check whether the last digit of number is divisible by three.
 
+write a program to find the lowest and largest out of two number.
 
+write a program to check whether a number is positive or negative.
 
 
 # c :-
