@@ -39,8 +39,26 @@
 
   ()
 
+• write a program to display if a year is leapyear or not.
+
+(https://github.com/Sangram-tech/Python--/blob/main/leapyear.py)
+
+• write a program to check whether the last digit of number is divisible by three.
+
+(https://github.com/Sangram-tech/Python--/blob/main/DIVISIBLE.PY)
 
 
+• write a program to find the lowest and largest out of two number.
+
+(https://github.com/Sangram-tech/Python--/blob/main/largest-lowest.py)
+
+• write a program to check whether a number is positive or negative.
+
+(https://github.com/Sangram-tech/Python--/blob/main/positive-negative.py)
+
+write a program to check whether a number is prime number or not.
+
+(
 
 
 # c :-
