@@ -50,6 +50,8 @@
 
 • write a program to check whether a number is positive or negative.
 
+(https://github.com/Sangram-tech/Python--/blob/main/positive-negative.py)
+
 
 # c :-
 
