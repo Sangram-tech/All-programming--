@@ -58,7 +58,7 @@
 
 write a program to check whether a number is prime number or not.
 
-(
+(C:\Users\hp\OneDrive\Desktop\PYTHON PROGRAM\prime.py)
 
 
 # c :-
