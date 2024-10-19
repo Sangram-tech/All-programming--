@@ -41,6 +41,9 @@
 
 • write a program to check whether the last digit of number is divisible by three.
 
+(https://github.com/Sangram-tech/Python--/blob/main/DIVISIBLE.PY)
+
+
 • write a program to find the lowest and largest out of two number.
 
 • write a program to check whether a number is positive or negative.
