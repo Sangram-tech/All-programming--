@@ -35,10 +35,6 @@
 
 (https://github.com/Sangram-tech/Python--/blob/main/Last%20digit%20of%20number%20.py)
 
-  write a program to display if a year is leap year or not.
-
-  ()
-
 • write a program to display if a year is leapyear or not.
 
 (https://github.com/Sangram-tech/Python--/blob/main/leapyear.py)
@@ -58,7 +54,7 @@
 
 write a program to check whether a number is prime number or not.
 
-(C:\Users\hp\OneDrive\Desktop\PYTHON PROGRAM\prime.py)
+(https://github.com/Sangram-tech/Python--/blob/main/prime.py)
 
 
 # c :-
