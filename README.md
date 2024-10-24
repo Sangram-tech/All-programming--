@@ -52,9 +52,13 @@
 
 (https://github.com/Sangram-tech/Python--/blob/main/positive-negative.py)
 
-write a program to check whether a number is prime number or not.
+• write a program to check whether a number is prime number or not.
 
 (https://github.com/Sangram-tech/Python--/blob/main/prime.py)
+• write a program to check whether a number is palindrome or not.
+
+()
+
 
 
 # c :-
