@@ -104,4 +104,3 @@ sting function:-
 ## C++:-
 write a program to add two number as user input.
 
-(https://github.com/Sangram-tech/Personal---/blob/main/sum.cpp)
