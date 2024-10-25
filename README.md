@@ -107,9 +107,13 @@ write a program to find maximum number using function.
 (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/maximum_function.c)
 
 
-write a program to fin minimum number using function.
+write a program to find minimum number using function.
 
 (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/minimum_function.c)
+
+write a program to find factrioal of a number.
+
+(https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/factrioal_function.c)
 ## C++:-
 write a program to add two number as user input.
 
