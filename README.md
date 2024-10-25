@@ -101,6 +101,15 @@ sting function:-
 
 (https://github.com/Sangram-tech/STRING-FUNCTION--)
 
+
+write a program to find maximum number using function.
+
+()
+
+
+write a program to fin minimum number using function.
+
+()
 ## C++:-
 write a program to add two number as user input.
 
