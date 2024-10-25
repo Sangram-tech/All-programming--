@@ -102,16 +102,16 @@ sting function:-
 (https://github.com/Sangram-tech/STRING-FUNCTION--)
 
 
-write a program to find maximum number using function.
+• write a program to find maximum number using function.
 
-(https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/maximum_function.c)
+ (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/maximum_function.c)
 
 
-write a program to find minimum number using function.
+• write a program to find minimum number using function.
 
-(https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/minimum_function.c)
+ (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/minimum_function.c)
 
-write a program to find factrioal of a number.
+• write a program to find factrioal of a number using function.
 
 (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/factrioal_function.c)
 ## C++:-
