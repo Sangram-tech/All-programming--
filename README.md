@@ -59,7 +59,7 @@
 
 • write a program to check whether a number is palindrome or not.
 
-(.     )
+(https://github.com/Sangram-tech/Python--/blob/main/palindrome.py)
 
 
 
