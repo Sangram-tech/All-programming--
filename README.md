@@ -71,39 +71,39 @@ write a program to check whether a string is palindrome or not.
 
 • Write a program to find out whether the integer entered by the user, through the keyboard, is even or odd number. 
 
-(https://github.com/Sangram-tech/WAP-TO-PRINT-CHECK-WHEATHER-NUMBER-EVEN-OR-)
+ (https://github.com/Sangram-tech/WAP-TO-PRINT-CHECK-WHEATHER-NUMBER-EVEN-OR-)
 
 • write a program to find area of a circle.
 
-(https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-CRICLE-/blob/main/main.c)
+ (https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-CRICLE-/blob/main/main.c)
 
 • write a program to find area of a square.
 
-(https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-SQURE-/blob/main/Hello.c)
+ (https://github.com/Sangram-tech/WAP-TO-CALCULATE-THE-AREA-OF-A-SQURE-/blob/main/Hello.c)
 
 • write a program to find factorial of a number.
 
-(https://github.com/Sangram-tech/-WAP-TO-FACTRIOL-OF-A-NUMBER./blob/main/hello.c)
+ (https://github.com/Sangram-tech/-WAP-TO-FACTRIOL-OF-A-NUMBER./blob/main/hello.c)
 
 • write a program to check whether the year is leap year or not.
 
-(https://github.com/Sangram-tech/-WAP-TO-CHECK-LEAP-YEAR-./blob/main/main.c)
+ (https://github.com/Sangram-tech/-WAP-TO-CHECK-LEAP-YEAR-./blob/main/main.c)
 
 • write a program to find squre of a number.
 
-(https://github.com/Sangram-tech/WAP-TO-FIND-SQURE-OF-A-NUMBER-./blob/main/MAIM.C)
+ (https://github.com/Sangram-tech/WAP-TO-FIND-SQURE-OF-A-NUMBER-./blob/main/MAIM.C)
 
 • write a program to swap to number using third variable as entered by user.
 
-(https://github.com/Sangram-tech/WAP-TO-SWAP-TWO-NUMBER-USING-THIRD-VARIABLE-/blob/main/ATF-MAC/main.c)
+ (https://github.com/Sangram-tech/WAP-TO-SWAP-TWO-NUMBER-USING-THIRD-VARIABLE-/blob/main/ATF-MAC/main.c)
 
 • write a program to find day of a week using switch case 
 
-(https://github.com/Sangram-tech/WAP-TO-FIND-A-DAY-OF-THE-WEEK-USING-SWITCH-CASE-/blob/main/MAIN.C)
+ (https://github.com/Sangram-tech/WAP-TO-FIND-A-DAY-OF-THE-WEEK-USING-SWITCH-CASE-/blob/main/MAIN.C)
 
 sting function:-
 
-(https://github.com/Sangram-tech/STRING-FUNCTION--)
+ (https://github.com/Sangram-tech/STRING-FUNCTION--)
 
 
 • write a program to find maximum number using function.
