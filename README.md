@@ -118,6 +118,10 @@ sting function:-
 • write a program to find factrioal of a number using function.
 
 (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/factrioal_function.c)
+
+write a program for fabonical serise using function.
+
+(
 ## C++:-
 write a program to add two number as user input.
 
