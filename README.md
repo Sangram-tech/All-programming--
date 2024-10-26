@@ -119,9 +119,9 @@ sting function:-
 
 (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/factrioal_function.c)
 
-write a program for fabonical serise using function.
+write a program for fabonacci serise using function.
 
-(
+(https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/Fabonical%20serise_function.c)
 ## C++:-
 write a program to add two number as user input.
 
