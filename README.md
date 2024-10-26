@@ -61,6 +61,10 @@
 
 (https://github.com/Sangram-tech/Python--/blob/main/palindrome.py)
 
+write a program to check whether a string is palindrome or not.
+
+
+
 
 
 # c :-
