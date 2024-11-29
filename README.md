@@ -123,13 +123,18 @@ sting function:-
 
  (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/Fabonical%20serise_function.c)
 
-write a program to find sum of number using function.
+• write a program to find sum of number using function.
 
-(https://github.com/Sangram-tech/PRACTICE/blob/main/sum_usingfunction.c)
+ (https://github.com/Sangram-tech/PRACTICE/blob/main/sum_usingfunction.c)
 
-write a program to find factrioal of a number using function.
+• write a program to find factrioal of a number using function.
 
-(https://github.com/Sangram-tech/PRACTICE/blob/main/factrioal_usingfunction.c)
+ (https://github.com/Sangram-tech/PRACTICE/blob/main/factrioal_usingfunction.c)
+
+• write a program to find perfect number using function.
+
+ (https://github.com/Sangram-tech/PRACTICE/blob/main/perfect_usingfunction.c)
+
  
 ## C++:-
 write a program to add two number as user input.
