@@ -135,6 +135,10 @@ sting function:-
 
  (https://github.com/Sangram-tech/PRACTICE/blob/main/perfect_usingfunction.c)
 
+ • write a program to find Armstrong of a number using function.
+
+ (https://github.com/Sangram-tech/PRACTICE/blob/main/armgstrong_usingfunction.c)
+
  
 ## C++:-
 write a program to add two number as user input.
