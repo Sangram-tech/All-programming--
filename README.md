@@ -122,6 +122,11 @@ sting function:-
 • write a program for fabonacci serise using function.
 
  (https://github.com/Sangram-tech/STRING-FUNCTION--/blob/main/Fabonical%20serise_function.c)
+
+write a program to find sum of number using function.
+
+()
+ 
 ## C++:-
 write a program to add two number as user input.
 
