@@ -126,6 +126,10 @@ sting function:-
 write a program to find sum of number using function.
 
 (https://github.com/Sangram-tech/PRACTICE/blob/main/sum_usingfunction.c)
+
+write a program to find factrioal of a number using function.
+
+(https://github.com/Sangram-tech/PRACTICE/blob/main/factrioal_usingfunction.c)
  
 ## C++:-
 write a program to add two number as user input.
